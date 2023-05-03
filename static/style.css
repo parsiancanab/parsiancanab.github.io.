@@ -1,0 +1,7 @@
+body {
+    background-color: bisque;
+    margin: 15px;
+    max-width: 100%;
+}
+
+.important { color: #336699; }
