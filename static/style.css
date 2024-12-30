@@ -2,14 +2,27 @@ body {
     background-color: bisque;
     margin: 15px;
     max-width: 100%;
+    
 }
+.navbar {
+  padding: 0;
+  background-color: bisque;
+  color:transparent;
 
+}
+.custom-padding {
+  padding: 55px;
+}
+.custom-margin{
+  margin-left: 55px;
+}
 .important { 
   color: #336699;
   justify-content: center;
-  padding-left: 50px;
-  padding-right: 50px;
+  padding-left: 55px;
+  padding-right: 55px;
   padding-bottom: 150px;
+  font-size: small;
 }
 .important-1 { 
   color: #336699;
@@ -18,7 +31,7 @@ body {
 }
 .contact {
   padding-top: 10px;
-  padding-left: 20px;
+  padding-left: 55px;
   font-size: small;
 }
 
@@ -61,3 +74,14 @@ body {
     background: #00aff0;
     color: white;
   }
+
+#footer {
+  margin-top: auto;
+  background-color: bisque; /* Optional: Footer background color */
+  text-align: center;
+  padding: 10px;
+}
+
+#contact{
+  margin: 45px;
+}
